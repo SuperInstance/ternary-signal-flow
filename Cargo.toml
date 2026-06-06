@@ -1,0 +1,7 @@
+[package]
+name = "ternary-signal-flow"
+version = "0.1.0"
+edition = "2021"
+description = "Experiment: ternary signal flow through GPU processing pipeline. Tests quantization, filtering, FFT-like transforms, and reconstruction fidelity with ternary {-1,0,+1} arithmetic."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/ternary-signal-flow"
